@@ -1,0 +1,85 @@
+.br_green{
+    background-color:green;
+}
+.br_red{
+    background-color: red;
+}
+.br_purple{
+    background-color: purple;
+}
+.br_blue{
+    background-color: blue;
+}
+.br_orange{
+    background-color:orange;
+}
+.br_light{
+    background-color: rgb(9, 200, 248);
+}
+.br_darkblue{
+    background-color: darkblue;
+}
+.br_yellow{
+    background-color: yellow;
+}
+.br_pink{
+    background-color: rgb(228, 122, 140);
+}
+.br_white{
+    background-color: white;
+}
+
+.bg_1{
+    flex-grow: 1;
+}
+.bg_2{
+    flex-grow: 2;
+}
+.bg_3{
+    flex-grow: 3;
+}
+.bg_4{
+    flex-grow: 4
+}
+.bg_5{
+    flex-grow:5;
+}
+.container {
+    display: flex;
+    flex-direction: row;   
+    width: 570px;
+    height: 570px;
+    border: 1px solid black;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;   
+    
+}
+.row{
+    display: flex;
+    flex-direction: row;    
+}
+.mrt{
+    margin-top: 10px;
+}
+.mrb{
+    margin-bottom: 10px;
+}
+.mrl{
+    margin-left: 10px;
+}
+.mrr{
+    margin-right: 10px;
+}
+.mr{
+    margin:10px;
+}
+.brr{
+    border-radius: 5px;
+}
+.w{
+    width: 900px;
+    
+}
